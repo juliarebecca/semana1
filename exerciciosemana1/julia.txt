@@ -1,0 +1,12 @@
+﻿Música Favorita: Na sua estante-Pitty  
+
+Lugar Favorito: Praia
+
+Livro Favorito: A Culpa é das Estrelas
+
+Disco Favorito: Anacronico
+
+git push origin julia-borges
+
+
+
